@@ -801,7 +801,11 @@ export default defineConfig({
                       label: 'Overview',
                       link: '/real-world-development/app/8-foundry-canvas/',
                       translations: {
+                        'es-ES': 'Descripción general',
+                        'ja-JP': '概要',
                         'ko-KR': '개요',
+                        'pt-BR': 'Visão geral',
+                        'zh-CN': '概述',
                       },
                     },
                     {
